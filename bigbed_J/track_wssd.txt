@@ -6,9 +6,9 @@ longLabel This composite track groups related bugBed subtracks together
 visibility dense
 priority 2
 
-                        track JPZ0113_wssd
+                        track JPZ0701_wssd
                         parent myComposite on
-                        bigDataUrl JPZ0113_wssd.bb
+                        bigDataUrl JPZ0701_wssd.bb
                         type bigBed 9
                         visibility dense
                         itemRgb on
