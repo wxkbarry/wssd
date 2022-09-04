@@ -1,0 +1,5 @@
+hub T2T-CHM13 genome
+shortLabel T2T-CHM13
+longLabel T2T-CHM13
+genomesFile genomes_wssd.txt
+email 18721528036@163.com
