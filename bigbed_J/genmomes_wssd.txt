@@ -1,2 +1,0 @@
-genome GCA_009914755.4
-trackDb track_wssd.txt
